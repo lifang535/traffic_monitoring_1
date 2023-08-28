@@ -35,4 +35,8 @@ license_plate_recognition: [0.798, 0.042, 0.034, 0.039, 0.044, 0.036, 0.038, 0.0
 face_recognition:          [0.029, 0.031, 0.021, 0.016, 0.017, 0.017, 0.018, 0.018, 0.015, 0.013, 0.011, 0.018, 0.012, 0.015, 0.020, 0.015, 0.015, 0.020, 0.015, 0.014, 0.014, 0.020, 0.013, 0.012, 0.014, 0.011, 0.024, 0.017, 0.011, ...] # each frame with box
 ```
 
+### Latency:
+
+When the modules are 1 : 3 : 3 : 1 : 1 for inference, there is request heap in `license_plate_recognition` and `face_recognition`.
+
 ![Image](https://github.com/lifang535/traffic_monitoring_1/blob/main/latency.png)
