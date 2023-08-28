@@ -5,5 +5,5 @@ This is a test of multi-model_app.
 
 ### Five modules
 
-![Image](https://github.com/lifang535/traffic_monitoring_1/app.png)
+![Image](https://github.com/lifang535/traffic_monitoring_1/blob/main/app.png)
 
