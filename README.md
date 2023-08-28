@@ -23,3 +23,7 @@ model: cv2.CascadeClassifier('haarcascade_frontalface_default.xml') from ?.
 ### Request in data transmission:
 
 1 * video : n * frame : n * m * draw_message
+
+### Throughout of model:
+
+![Image](https://github.com/lifang535/traffic_monitoring_1/blob/main/latency.png)
