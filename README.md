@@ -1,9 +1,25 @@
-# traffic_monitoring_1
+![image](https://github.com/lifang535/traffic_monitoring_1/assets/121086156/fb078b63-e0dd-4752-95f2-bba5ea9e5dba)# traffic_monitoring_1
 This is a test of multi-model_app.
 
 ## code logics
 
-### Five modules
+### Five modules: 
+
+'Clients': output: video_path
+
+`object_detection`: input: video_path; output: frame, box;
+model: hustvl/yolos-tiny from https://huggingface.co/hustvl/yolos-tiny.
+
+`license_plate_recognition`: input: frame, box; output: frame, box, license_plate_number, score;
+model: EasyOCR from https://github.com/JaidedAI/EasyOCR.
+
+`face_recognition`: input: frame, box; output: frame, box, person_name, score;
+model: cv2.CascadeClassifier('haarcascade_frontalface_default.xml') from ?.
+
+`traffic_summary`: input: draw_message; output: processed_video.
 
 ![Image](https://github.com/lifang535/traffic_monitoring_1/blob/main/app.png)
 
+### Request in data transmission:
+
+1 * video : n * frame : n * m * draw_message
