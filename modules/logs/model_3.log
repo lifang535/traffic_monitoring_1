@@ -1,0 +1,42 @@
+2023-08-26 14:32:33,267 - INFO - [Model_3_1] start
+2023-08-26 14:32:33,292 - INFO - [Model_3_2] start
+2023-08-26 14:32:33,300 - INFO - [Model_3_3] start
+2023-08-26 14:32:39,207 - INFO - [Model_3_1] frame_filename: [1, 15, 1], and person_frames_list: 1
+2023-08-26 14:32:39,222 - INFO - [Model_3_2] frame_filename: [1, 15, 2], and person_frames_list: 1
+2023-08-26 14:32:39,235 - INFO - [Model_3_3] frame_filename: [1, 15, 3], and person_frames_list: 0
+2023-08-26 14:32:44,285 - INFO - [Model_3_3] frame_filename: [1, 84, 2], and person_frames_list: 1
+2023-08-26 14:32:44,293 - INFO - [Model_3_1] frame_filename: [1, 84, 3], and person_frames_list: 0
+2023-08-26 14:32:44,326 - INFO - [Model_3_2] frame_filename: [1, 85, 2], and person_frames_list: 1
+2023-08-26 14:32:49,317 - INFO - [Model_3_1] frame_filename: [2, 3, 4], and person_frames_list: 1
+2023-08-26 14:32:49,326 - INFO - [Model_3_3] frame_filename: [2, 3, 5], and person_frames_list: 0
+2023-08-26 14:32:49,363 - INFO - [Model_3_2] frame_filename: [2, 4, 2], and person_frames_list: 1
+2023-08-26 14:32:54,363 - INFO - [Model_3_1] frame_filename: [2, 88, 0], and person_frames_list: 0
+2023-08-26 14:32:54,417 - INFO - [Model_3_3] frame_filename: [2, 89, 0], and person_frames_list: 0
+2023-08-26 14:32:54,471 - INFO - [Model_3_2] frame_filename: [2, 90, 0], and person_frames_list: 0
+2023-08-26 14:32:59,456 - INFO - [Model_3_1] frame_filename: [2, 181, 0], and person_frames_list: 0
+2023-08-26 14:32:59,520 - INFO - [Model_3_3] frame_filename: [2, 182, 0], and person_frames_list: 0
+2023-08-26 14:32:59,595 - INFO - [Model_3_2] frame_filename: [2, 183, 0], and person_frames_list: 0
+2023-08-26 14:33:08,855 - INFO - [Model_3_1] frame_filename: [4, 1, 0], and person_frames_list: 0
+2023-08-26 14:33:08,872 - INFO - [Model_3_3] frame_filename: [4, 2, 0], and person_frames_list: 0
+2023-08-26 14:33:08,897 - INFO - [Model_3_2] frame_filename: [4, 3, 0], and person_frames_list: 0
+2023-08-26 14:33:13,898 - INFO - [Model_3_1] frame_filename: [4, 114, 0], and person_frames_list: 0
+2023-08-26 14:33:13,921 - INFO - [Model_3_3] frame_filename: [4, 115, 0], and person_frames_list: 0
+2023-08-26 14:33:13,987 - INFO - [Model_3_2] frame_filename: [4, 116, 0], and person_frames_list: 0
+2023-08-26 14:33:38,908 - INFO - [Model_3_3] frame_filename: [6, 4, 1], and person_frames_list: 0
+2023-08-26 14:33:38,990 - INFO - [Model_3_2] frame_filename: [6, 7, 2], and person_frames_list: 0
+2023-08-26 14:33:39,041 - INFO - [Model_3_1] frame_filename: [6, 9, 1], and person_frames_list: 0
+2023-08-26 14:33:43,912 - INFO - [Model_3_3] frame_filename: [6, 167, 1], and person_frames_list: 1
+2023-08-26 14:33:44,027 - INFO - [Model_3_2] frame_filename: [6, 172, 1], and person_frames_list: 0
+2023-08-26 14:33:44,052 - INFO - [Model_3_1] frame_filename: [6, 172, 6], and person_frames_list: 0
+2023-08-26 14:33:48,925 - INFO - [Model_3_3] frame_filename: [6, 333, 4], and person_frames_list: 2
+2023-08-26 14:33:49,091 - INFO - [Model_3_2] frame_filename: [6, 339, 2], and person_frames_list: 0
+2023-08-26 14:33:49,096 - INFO - [Model_3_1] frame_filename: [6, 339, 4], and person_frames_list: 0
+2023-08-26 14:33:53,990 - INFO - [Model_3_3] frame_filename: [6, 504, 1], and person_frames_list: 0
+2023-08-26 14:33:54,119 - INFO - [Model_3_1] frame_filename: [6, 508, 2], and person_frames_list: 0
+2023-08-26 14:33:54,307 - INFO - [Model_3_2] frame_filename: [6, 514, 1], and person_frames_list: 0
+2023-08-26 14:34:55,366 - INFO - [Model_3_1] end
+2023-08-26 14:34:55,367 - INFO - [Model_3_1] self.end_signal.value: 2
+2023-08-26 14:34:55,368 - INFO - [Model_3_3] end
+2023-08-26 14:34:55,369 - INFO - [Model_3_3] self.end_signal.value: 1
+2023-08-26 14:34:55,370 - INFO - [Model_3_2] end
+2023-08-26 14:34:55,371 - INFO - [Model_3_2] self.end_signal.value: 0

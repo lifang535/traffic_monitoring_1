@@ -1,0 +1,8 @@
+2023-08-26 14:32:33,197 - INFO - [Loader] start
+2023-08-26 14:32:33,199 - INFO - [Loader] input_video_path: ../input_videos/video_1.mp4
+2023-08-26 14:32:34,201 - INFO - [Loader] input_video_path: ../input_videos/video_2.mp4
+2023-08-26 14:32:35,203 - INFO - [Loader] input_video_path: ../input_videos/video_3.mp4
+2023-08-26 14:32:36,205 - INFO - [Loader] input_video_path: ../input_videos/video_4.mp4
+2023-08-26 14:32:37,207 - INFO - [Loader] input_video_path: ../input_videos/video_5.mp4
+2023-08-26 14:32:38,209 - INFO - [Loader] input_video_path: ../input_videos/video_6.mp4
+2023-08-26 14:33:38,660 - INFO - [Loader] end

@@ -1,0 +1,60 @@
+2023-08-26 14:32:39,397 - INFO - [Model_2_1] start
+2023-08-26 14:32:39,425 - INFO - [Model_2_1] frame_filename: [1, 15, 4], and car_frames_list: 13
+2023-08-26 14:32:39,582 - INFO - [Model_2_2] start
+2023-08-26 14:32:39,599 - INFO - [Model_2_2] frame_filename: [1, 12, 1], and car_frames_list: 15
+2023-08-26 14:32:44,459 - INFO - [Model_2_1] frame_filename: [1, 61, 4], and car_frames_list: 42
+2023-08-26 14:32:44,629 - INFO - [Model_2_2] frame_filename: [1, 62, 7], and car_frames_list: 42
+2023-08-26 14:32:49,611 - INFO - [Model_2_1] frame_filename: [1, 98, 1], and car_frames_list: 160
+2023-08-26 14:32:49,636 - INFO - [Model_2_2] frame_filename: [1, 99, 1], and car_frames_list: 160
+2023-08-26 14:32:54,616 - INFO - [Model_2_1] frame_filename: [2, 10, 2], and car_frames_list: 30
+2023-08-26 14:32:54,667 - INFO - [Model_2_2] frame_filename: [2, 13, 2], and car_frames_list: 27
+2023-08-26 14:33:03,263 - INFO - [Model_2_2] frame_filename: [3, 1, 1], and car_frames_list: 1
+2023-08-26 14:33:03,267 - INFO - [Model_2_1] frame_filename: [3, 1, 2], and car_frames_list: 1
+2023-08-26 14:33:08,283 - INFO - [Model_2_1] frame_filename: [3, 17, 11], and car_frames_list: 795
+2023-08-26 14:33:08,305 - INFO - [Model_2_2] frame_filename: [3, 19, 6], and car_frames_list: 801
+2023-08-26 14:33:13,313 - INFO - [Model_2_2] frame_filename: [3, 42, 12], and car_frames_list: 567
+2023-08-26 14:33:13,316 - INFO - [Model_2_1] frame_filename: [3, 43, 4], and car_frames_list: 566
+2023-08-26 14:33:18,343 - INFO - [Model_2_2] frame_filename: [3, 62, 11], and car_frames_list: 327
+2023-08-26 14:33:18,346 - INFO - [Model_2_1] frame_filename: [3, 63, 8], and car_frames_list: 326
+2023-08-26 14:33:23,381 - INFO - [Model_2_1] frame_filename: [3, 85, 5], and car_frames_list: 811
+2023-08-26 14:33:23,386 - INFO - [Model_2_2] frame_filename: [3, 86, 1], and car_frames_list: 810
+2023-08-26 14:33:28,388 - INFO - [Model_2_1] frame_filename: [5, 15, 2], and car_frames_list: 1233
+2023-08-26 14:33:28,412 - INFO - [Model_2_2] frame_filename: [5, 14, 9], and car_frames_list: 1234
+2023-08-26 14:33:33,405 - INFO - [Model_2_1] frame_filename: [5, 31, 11], and car_frames_list: 1757
+2023-08-26 14:33:33,440 - INFO - [Model_2_2] frame_filename: [5, 32, 9], and car_frames_list: 1762
+2023-08-26 14:33:38,417 - INFO - [Model_2_1] frame_filename: [5, 49, 3], and car_frames_list: 2253
+2023-08-26 14:33:38,443 - INFO - [Model_2_2] frame_filename: [5, 50, 1], and car_frames_list: 2252
+2023-08-26 14:33:43,430 - INFO - [Model_2_1] frame_filename: [5, 71, 1], and car_frames_list: 2336
+2023-08-26 14:33:43,464 - INFO - [Model_2_2] frame_filename: [5, 70, 7], and car_frames_list: 2341
+2023-08-26 14:33:48,455 - INFO - [Model_2_1] frame_filename: [5, 96, 2], and car_frames_list: 2540
+2023-08-26 14:33:48,490 - INFO - [Model_2_2] frame_filename: [5, 95, 11], and car_frames_list: 2545
+2023-08-26 14:33:53,458 - INFO - [Model_2_1] frame_filename: [5, 121, 3], and car_frames_list: 2648
+2023-08-26 14:33:53,493 - INFO - [Model_2_2] frame_filename: [5, 121, 4], and car_frames_list: 2647
+2023-08-26 14:33:58,497 - INFO - [Model_2_2] frame_filename: [5, 154, 4], and car_frames_list: 2735
+2023-08-26 14:33:58,505 - INFO - [Model_2_1] frame_filename: [5, 155, 1], and car_frames_list: 2734
+2023-08-26 14:34:03,501 - INFO - [Model_2_2] frame_filename: [5, 183, 5], and car_frames_list: 2517
+2023-08-26 14:34:03,537 - INFO - [Model_2_1] frame_filename: [5, 183, 6], and car_frames_list: 2516
+2023-08-26 14:34:08,529 - INFO - [Model_2_2] frame_filename: [5, 204, 7], and car_frames_list: 2305
+2023-08-26 14:34:08,562 - INFO - [Model_2_1] frame_filename: [5, 205, 1], and car_frames_list: 2304
+2023-08-26 14:34:13,556 - INFO - [Model_2_2] frame_filename: [5, 224, 1], and car_frames_list: 2106
+2023-08-26 14:34:13,589 - INFO - [Model_2_1] frame_filename: [5, 223, 10], and car_frames_list: 2105
+2023-08-26 14:34:18,604 - INFO - [Model_2_1] frame_filename: [5, 246, 1], and car_frames_list: 1897
+2023-08-26 14:34:18,610 - INFO - [Model_2_2] frame_filename: [5, 245, 6], and car_frames_list: 1896
+2023-08-26 14:34:23,615 - INFO - [Model_2_1] frame_filename: [5, 265, 7], and car_frames_list: 1694
+2023-08-26 14:34:23,639 - INFO - [Model_2_2] frame_filename: [5, 266, 2], and car_frames_list: 1693
+2023-08-26 14:34:28,645 - INFO - [Model_2_1] frame_filename: [5, 287, 5], and car_frames_list: 1488
+2023-08-26 14:34:28,683 - INFO - [Model_2_2] frame_filename: [5, 285, 11], and car_frames_list: 1487
+2023-08-26 14:34:33,670 - INFO - [Model_2_1] frame_filename: [6, 30, 2], and car_frames_list: 1269
+2023-08-26 14:34:33,708 - INFO - [Model_2_2] frame_filename: [6, 30, 3], and car_frames_list: 1268
+2023-08-26 14:34:38,680 - INFO - [Model_2_1] frame_filename: [6, 163, 2], and car_frames_list: 992
+2023-08-26 14:34:38,731 - INFO - [Model_2_2] frame_filename: [6, 166, 4], and car_frames_list: 989
+2023-08-26 14:34:43,701 - INFO - [Model_2_1] frame_filename: [6, 277, 6], and car_frames_list: 691
+2023-08-26 14:34:43,737 - INFO - [Model_2_2] frame_filename: [6, 279, 4], and car_frames_list: 688
+2023-08-26 14:34:48,708 - INFO - [Model_2_1] frame_filename: [6, 436, 1], and car_frames_list: 393
+2023-08-26 14:34:48,746 - INFO - [Model_2_2] frame_filename: [6, 439, 3], and car_frames_list: 390
+2023-08-26 14:34:53,742 - INFO - [Model_2_1] frame_filename: [6, 592, 2], and car_frames_list: 94
+2023-08-26 14:34:53,769 - INFO - [Model_2_2] frame_filename: [6, 592, 3], and car_frames_list: 93
+2023-08-26 14:34:55,369 - INFO - [Model_2_2] end
+2023-08-26 14:34:55,369 - INFO - [Model_2_2] self.end_signal.value: 1
+2023-08-26 14:34:55,418 - INFO - [Model_2_1] end
+2023-08-26 14:34:55,418 - INFO - [Model_2_1] self.end_signal.value: 0

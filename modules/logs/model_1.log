@@ -1,0 +1,31 @@
+2023-08-26 14:32:35,859 - INFO - [Model_1_1] start
+2023-08-26 14:32:35,871 - INFO - [Model_1_1] input_video_path: ../input_videos/video_1.mp4
+2023-08-26 14:32:35,871 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_1.mp4
+2023-08-26 14:32:39,975 - INFO - [Model_1_1] request_id: [1, 18]
+2023-08-26 14:32:45,017 - INFO - [Model_1_1] request_id: [1, 98]
+2023-08-26 14:32:48,898 - INFO - [Model_1_1] input_video_path: ../input_videos/video_2.mp4
+2023-08-26 14:32:48,898 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_2.mp4
+2023-08-26 14:32:50,023 - INFO - [Model_1_1] request_id: [2, 16]
+2023-08-26 14:32:55,034 - INFO - [Model_1_1] request_id: [2, 102]
+2023-08-26 14:33:00,063 - INFO - [Model_1_1] request_id: [2, 194]
+2023-08-26 14:33:03,093 - INFO - [Model_1_1] input_video_path: ../input_videos/video_3.mp4
+2023-08-26 14:33:03,094 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_3.mp4
+2023-08-26 14:33:05,069 - INFO - [Model_1_1] request_id: [3, 43]
+2023-08-26 14:33:08,652 - INFO - [Model_1_1] input_video_path: ../input_videos/video_4.mp4
+2023-08-26 14:33:08,652 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_4.mp4
+2023-08-26 14:33:10,107 - INFO - [Model_1_1] request_id: [4, 38]
+2023-08-26 14:33:15,130 - INFO - [Model_1_1] request_id: [4, 159]
+2023-08-26 14:33:18,149 - INFO - [Model_1_1] input_video_path: ../input_videos/video_5.mp4
+2023-08-26 14:33:18,149 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_5.mp4
+2023-08-26 14:33:20,164 - INFO - [Model_1_1] request_id: [5, 29]
+2023-08-26 14:33:25,190 - INFO - [Model_1_1] request_id: [5, 104]
+2023-08-26 14:33:30,214 - INFO - [Model_1_1] request_id: [5, 187]
+2023-08-26 14:33:35,219 - INFO - [Model_1_1] request_id: [5, 264]
+2023-08-26 14:33:38,653 - INFO - [Model_1_1] input_video_path: ../input_videos/video_6.mp4
+2023-08-26 14:33:38,654 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_6.mp4
+2023-08-26 14:33:40,227 - INFO - [Model_1_1] request_id: [6, 49]
+2023-08-26 14:33:45,240 - INFO - [Model_1_1] request_id: [6, 215]
+2023-08-26 14:33:50,244 - INFO - [Model_1_1] request_id: [6, 383]
+2023-08-26 14:33:55,269 - INFO - [Model_1_1] request_id: [6, 550]
+2023-08-26 14:34:55,363 - INFO - [Model_1_1] end
+2023-08-26 14:34:55,364 - INFO - [Model_1_1] self.end_signal.value: 0

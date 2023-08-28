@@ -1,0 +1,56 @@
+2023-08-26 14:32:33,298 - INFO - [Model_4_1] start
+2023-08-26 14:32:39,253 - INFO - [Model_4_1] [1, 15, 1] is being processed, and draw_message_list: 0
+2023-08-26 14:32:44,269 - INFO - [Model_4_1] [1, 55, 1] is being processed, and draw_message_list: 121
+2023-08-26 14:32:49,272 - INFO - [Model_4_1] [1, 118, 5] is being processed, and draw_message_list: 179
+2023-08-26 14:32:54,285 - INFO - [Model_4_1] [2, 16, 4] is being processed, and draw_message_list: 274
+2023-08-26 14:32:59,306 - INFO - [Model_4_1] [1, 146, 5] is being processed, and draw_message_list: 157
+2023-08-26 14:33:00,239 - INFO - [Model_4_1] frame_filename: output_frames_video_1
+2023-08-26 14:33:00,239 - INFO - [Model_4_1] input_video_path: ../input_videos/video_1.mp4
+2023-08-26 14:33:00,239 - INFO - [Model_4_1] output_video_path: ../output_videos/processed_video_1.mp4
+2023-08-26 14:33:03,420 - INFO - [Model_4_1] ../input_videos/video_1.mp4 processed successfully
+2023-08-26 14:33:04,316 - INFO - [Model_4_1] [2, 36, 2] is being processed, and draw_message_list: 188
+2023-08-26 14:33:07,686 - INFO - [Model_4_1] frame_filename: output_frames_video_2
+2023-08-26 14:33:07,686 - INFO - [Model_4_1] input_video_path: ../input_videos/video_2.mp4
+2023-08-26 14:33:07,686 - INFO - [Model_4_1] output_video_path: ../output_videos/processed_video_2.mp4
+2023-08-26 14:33:09,327 - INFO - [Model_4_1] [3, 11, 9] is being processed, and draw_message_list: 134
+2023-08-26 14:33:12,280 - INFO - [Model_4_1] ../input_videos/video_2.mp4 processed successfully
+2023-08-26 14:33:14,329 - INFO - [Model_4_1] [3, 30, 6] is being processed, and draw_message_list: 254
+2023-08-26 14:33:19,329 - INFO - [Model_4_1] [4, 184, 0] is being processed, and draw_message_list: 228
+2023-08-26 14:33:24,341 - INFO - [Model_4_1] [3, 82, 6] is being processed, and draw_message_list: 64
+2023-08-26 14:33:25,677 - INFO - [Model_4_1] frame_filename: output_frames_video_3
+2023-08-26 14:33:25,677 - INFO - [Model_4_1] input_video_path: ../input_videos/video_3.mp4
+2023-08-26 14:33:25,677 - INFO - [Model_4_1] output_video_path: ../output_videos/processed_video_3.mp4
+2023-08-26 14:33:26,577 - INFO - [Model_4_1] ../input_videos/video_3.mp4 processed successfully
+2023-08-26 14:33:26,675 - INFO - [Model_4_1] frame_filename: output_frames_video_4
+2023-08-26 14:33:26,676 - INFO - [Model_4_1] input_video_path: ../input_videos/video_4.mp4
+2023-08-26 14:33:26,676 - INFO - [Model_4_1] output_video_path: ../output_videos/processed_video_4.mp4
+2023-08-26 14:33:28,027 - INFO - [Model_4_1] ../input_videos/video_4.mp4 processed successfully
+2023-08-26 14:33:29,359 - INFO - [Model_4_1] [5, 15, 7] is being processed, and draw_message_list: 32
+2023-08-26 14:33:34,362 - INFO - [Model_4_1] [5, 35, 5] is being processed, and draw_message_list: 0
+2023-08-26 14:33:39,366 - INFO - [Model_4_1] [5, 53, 3] is being processed, and draw_message_list: 2
+2023-08-26 14:33:44,381 - INFO - [Model_4_1] [5, 65, 8] is being processed, and draw_message_list: 279
+2023-08-26 14:33:49,396 - INFO - [Model_4_1] [5, 78, 2] is being processed, and draw_message_list: 619
+2023-08-26 14:33:54,421 - INFO - [Model_4_1] [5, 89, 1] is being processed, and draw_message_list: 636
+2023-08-26 14:33:59,442 - INFO - [Model_4_1] [5, 102, 3] is being processed, and draw_message_list: 587
+2023-08-26 14:34:04,449 - INFO - [Model_4_1] [5, 125, 3] is being processed, and draw_message_list: 511
+2023-08-26 14:34:09,458 - INFO - [Model_4_1] [5, 157, 1] is being processed, and draw_message_list: 452
+2023-08-26 14:34:14,475 - INFO - [Model_4_1] [5, 187, 8] is being processed, and draw_message_list: 415
+2023-08-26 14:34:19,492 - INFO - [Model_4_1] [5, 212, 1] is being processed, and draw_message_list: 380
+2023-08-26 14:34:24,501 - INFO - [Model_4_1] [5, 232, 8] is being processed, and draw_message_list: 344
+2023-08-26 14:34:29,512 - INFO - [Model_4_1] [5, 256, 8] is being processed, and draw_message_list: 303
+2023-08-26 14:34:34,531 - INFO - [Model_4_1] [5, 286, 3] is being processed, and draw_message_list: 284
+2023-08-26 14:34:38,759 - INFO - [Model_4_1] frame_filename: output_frames_video_5
+2023-08-26 14:34:38,760 - INFO - [Model_4_1] input_video_path: ../input_videos/video_5.mp4
+2023-08-26 14:34:38,760 - INFO - [Model_4_1] output_video_path: ../output_videos/processed_video_5.mp4
+2023-08-26 14:34:43,557 - INFO - [Model_4_1] ../input_videos/video_5.mp4 processed successfully
+2023-08-26 14:34:43,594 - INFO - [Model_4_1] [6, 18, 1] is being processed, and draw_message_list: 593
+2023-08-26 14:34:48,597 - INFO - [Model_4_1] [6, 204, 1] is being processed, and draw_message_list: 481
+2023-08-26 14:34:53,601 - INFO - [Model_4_1] [6, 389, 1] is being processed, and draw_message_list: 359
+2023-08-26 14:34:58,624 - INFO - [Model_4_1] [6, 618, 2] is being processed, and draw_message_list: 40
+2023-08-26 14:34:59,145 - INFO - [Model_4_1] frame_filename: output_frames_video_6
+2023-08-26 14:34:59,145 - INFO - [Model_4_1] input_video_path: ../input_videos/video_6.mp4
+2023-08-26 14:34:59,145 - INFO - [Model_4_1] output_video_path: ../output_videos/processed_video_6.mp4
+2023-08-26 14:35:02,102 - INFO - [Model_4_1] ../input_videos/video_6.mp4 processed successfully
+2023-08-26 14:35:02,104 - INFO - [Model_4_1] self.draw_message_list: 2
+2023-08-26 14:35:02,104 - INFO - [Model_4_1] end
+2023-08-26 14:35:02,104 - INFO - [Model_4_1] self.end_signal.value: 0
