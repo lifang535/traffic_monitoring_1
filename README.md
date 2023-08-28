@@ -26,7 +26,7 @@ model: cv2.CascadeClassifier('haarcascade_frontalface_default.xml').
 
 ### Throughout of model:
 
-When the modules are 1 : 3 : 3 : 1 : 1 for inference, the process time of request are:
+When the modules are 1 : 3 : 3 : 1 : 1 for inference, the process time of requests are:
 ```
 object_detection:          [13.755, 14.695, 5.131, 9.726, 20.354, 25.487, 6.726, 7.12, 4.979, 14.983, 2.593, 8.596, 16.668, 5.65, 5.951] # each video
 
