@@ -1,11 +1,11 @@
-![image](https://github.com/lifang535/traffic_monitoring_1/assets/121086156/fb078b63-e0dd-4752-95f2-bba5ea9e5dba)# traffic_monitoring_1
+# traffic_monitoring_1
 This is a test of multi-model_app.
 
 ## code logics
 
 ### Five modules: 
 
-'Clients': output: video_path
+`Clients`: output: video_path
 
 `object_detection`: input: video_path; output: frame, box;
 model: hustvl/yolos-tiny from https://huggingface.co/hustvl/yolos-tiny.
