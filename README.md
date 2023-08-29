@@ -26,17 +26,19 @@ model: cv2.CascadeClassifier('haarcascade_frontalface_default.xml').
 
 ### Throughout of model:
 
-When the modules are 1 : 3 : 3 : 1 : 1 for inference, the process time of requests are:
+When the modules are 1 : 1 : 1 : 1 : 1 for inference, the process time of requests are:
 ```
-object_detection:          [13.755, 14.695, 5.131, 9.726, 20.354, 25.487, 6.726, 7.12, 4.979, 14.983, 2.593, 8.596, 16.668, 5.65, 5.951] # each video
+object_detection:          [..., 0.103, 0.123, 0.117, 0.130, 0.106, 0.110, 0.093, 0.111, 0.109, 0.094, 0.072, 0.093, 0.093, 0.082, 0.099, 0.085, 0.104, 0.095, 0.084, 0.065, ...] # each frame, ≈ 10 req/s
 
-license_plate_recognition: [0.798, 0.042, 0.034, 0.039, 0.044, 0.036, 0.038, 0.043, 0.048, 0.031, 0.032, 0.044, 0.033, 0.044, 0.028, 0.953, 0.036, 0.037, 0.038, 0.038, 0.034, 0.044, 0.042, 0.044, 0.034, 0.045, 0.036, 0.044, 0.032, ...] # each frame with box
+license_plate_recognition: [..., 0.038, 0.040, 0.036, 0.028, 0.037, 0.029, 0.035, 0.036, 0.037, 0.030, 0.040, 0.033, 0.034, 0.031, 0.030, 0.031, 0.032, 0.037, 0.036, 0.030, ...] # each frame with box, ≈ 3 req/s
 
-face_recognition:          [0.029, 0.031, 0.021, 0.016, 0.017, 0.017, 0.018, 0.018, 0.015, 0.013, 0.011, 0.018, 0.012, 0.015, 0.020, 0.015, 0.015, 0.020, 0.015, 0.014, 0.014, 0.020, 0.013, 0.012, 0.014, 0.011, 0.024, 0.017, 0.011, ...] # each frame with box
+face_recognition:          [..., 0.013, 0.017, 0.010, 0.008, 0.013, 0.012, 0.009, 0.012, 0.012, 0.011, 0.012, 0.015, 0.013, 0.010, 0.014, 0.012, 0.008, 0.015, 0.011, 0.010, ...] # each frame with box, ≈ 90 req/s
+
+# face_recognition's size is small, trained by my own data.
 ```
 
 ### Latency:
 
-When the modules are 1 : 3 : 3 : 1 : 1 for inference, there is request heap in `license_plate_recognition` and `face_recognition`.
+When the modules are 1 : 1 : 1 : 1 : 1 for inference, there is request heap in `license_plate_recognition` and `face_recognition`.
 
 ![Image](https://github.com/lifang535/traffic_monitoring_1/blob/main/latency.png)
