@@ -20,6 +20,8 @@ model: cv2.CascadeClassifier('haarcascade_frontalface_default.xml').
 
 ![Image](https://github.com/lifang535/traffic_monitoring_1/blob/main/app.png)
 
+Test videos are in: ...
+
 ### Request in data transmission:
 
 1 * video : n * frame : n * m * draw_message
@@ -34,10 +36,8 @@ throughout of object_detection ≈ 10.16 req/s
 license_plate_recognition: [..., 0.038, 0.040, 0.036, 0.028, 0.037, 0.029, 0.035, 0.036, 0.037, 0.030, 0.040, 0.033, 0.034, 0.031, 0.030, 0.031, 0.032, 0.037, 0.036, 0.030, ...] # each frame with box
 throughout of license_plate_recognition ≈ 29.41 req/s
 
-face_recognition:          [..., 0.013, 0.017, 0.010, 0.008, 0.013, 0.012, 0.009, 0.012, 0.012, 0.011, 0.012, 0.015, 0.013, 0.010, 0.014, 0.012, 0.008, 0.015, 0.011, 0.010, ...] # each frame with box
-throughout of face_recognition ≈ 84.39 req/s
-
-# face_recognition's size is small, trained by my own data.
+face_recognition:          [..., 0.058, 0.047, 0.046, 0.054, 0.044, 0.050, 0.051, 0.048, 0.047, 0.046, 0.042, 0.049, 0.047, 0.047, 0.047, 0.049, 0.043, 0.048, 0.056, 0.046, ...] # each frame with box
+throughout of face_recognition ≈ 20.73 req/s
 ```
 
 ### Latency:
