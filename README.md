@@ -58,11 +58,11 @@ face_recognition:          [..., 0.058, 0.047, 0.046, 0.054, 0.044, 0.050, 0.051
 
 Throughout:
 ```
-throughout of object_detection ≈ 10.16 req/s (cuda:1  MEM: 1688MiB; UTL: 0 ~ 20％, main-8％)
+throughout of object_detection ≈ 10.16 req/s (cuda:1  MEM: 1688MiB; UTL: 0 ~ 20％, avg-8％)
 
-throughout of license_plate_recognition ≈ 29.41 req/s (cuda:0  MEM: 4054MiB; UTL: 0 ~ 10％, main-3％)
+throughout of license_plate_recognition ≈ 29.41 req/s (cuda:0  MEM: 4054MiB; UTL: 0 ~ 10％, avg-3％)
 
-throughout of face_recognition ≈ 20.73 req/s (cpu  UTL: 10 ~ 40％， main-15％)
+throughout of face_recognition ≈ 20.73 req/s (cpu  UTL: 10 ~ 40％， avg-15％)
 ```
 
 ### Latency:
