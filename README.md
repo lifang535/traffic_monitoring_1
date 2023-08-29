@@ -26,6 +26,25 @@ Test videos are in: (consider changing videos).
 
 1 * video : n * frame : n * m * draw_message
 
+```
+         path                         num_frame                         num_car                         num_person
+'input_videos/video_1.mp4'              150                               327                              459
+'input_videos/video_2.mp4'              240                               39                               166
+'input_videos/video_3.mp4'              90                                1003                             1
+'input_videos/video_4.mp4'              248                               24                               4
+'input_videos/video_5.mp4'              301                               2777                             0
+'input_videos/video_6.mp4'              636                               1326                             1047
+'input_videos/video_7.mp4'              162                               831                              88
+'input_videos/video_8.mp4'              184                               2                                0
+'input_videos/video_9.mp4'              115                               0                                95
+'input_videos/video_10.mp4'             365                               0                                0
+'input_videos/video_11.mp4'             60                                0                                11
+'input_videos/video_12.mp4'             249                               0                                0
+'input_videos/video_13.mp4'             264                               0                                22
+'input_videos/video_14.mp4'             143                               0                                109
+'input_videos/video_15.mp4'             176                               0                                0
+```
+
 ### Throughout of model:
 
 When the modules are 1 : 1 : 1 : 1 : 1 for inference, the process time of requests are:
@@ -39,11 +58,11 @@ face_recognition:          [..., 0.058, 0.047, 0.046, 0.054, 0.044, 0.050, 0.051
 
 Throughout:
 ```
-throughout of object_detection ≈ 10.16 req/s
+throughout of object_detection ≈ 10.16 req/s (cuda:1  MEM: 1688MiB; UTL: 0 ~ 20％, main-8％)
 
-throughout of license_plate_recognition ≈ 29.41 req/s
+throughout of license_plate_recognition ≈ 29.41 req/s (cuda:0  MEM: 4054MiB; UTL: 0 ~ 10％, main-3％)
 
-throughout of face_recognition ≈ 20.73 req/s
+throughout of face_recognition ≈ 20.73 req/s (cpu  UTL: 10 ~ 40％， main-15％)
 ```
 
 ### Latency:
